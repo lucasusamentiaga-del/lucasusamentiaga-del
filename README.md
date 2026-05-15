@@ -4,15 +4,16 @@
 
 # Lucas Usamentiaga
 
-`Estudiante de Ingeniería Informática de Sistemas y Aplicaciones`
-
-Construyo software combinando **fundamentos de bajo nivel** con las **herramientas de IA** más avanzadas.<br/>
-Python · C · Vibecoding · 19 años.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+Inform%C3%A1tica+%C2%B7+19+a%C3%B1os;Python+%C2%B7+C+%C2%B7+Vibecoding;De+bajo+nivel+a+IA+aplicada;Construyo+software+con+criterio+humano)](https://github.com/lucasusamentiaga)
 
 <p>
   <a href="mailto:lucasusamentiaga@gmail.com"><img src="https://img.shields.io/badge/lucasusamentiaga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/lucasusamentiaga-del"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/lucasusamentiaga"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://x.com/T0ff3_x"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/lucasuazz_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=lucasusamentiaga&label=Visitas%20%C3%BAnicas&color=6366F1&style=for-the-badge&base=0" alt="Visitas"/>
 
 <sub>📍 España · Disponible para proyectos personales, colaboraciones académicas y open source</sub>
 
@@ -30,6 +31,18 @@ Mi enfoque combina dos planos que normalmente se separan:
 - **Alto nivel** — Python como herramienta principal y los LLMs como multiplicador para construir más, mejor y más rápido.
 
 Lo que más me motiva es la **intersección entre ingeniería clásica y las herramientas que cambian cómo se programa**: agentes autónomos, asistentes de codificación, automatización de tareas repetitivas y diseño de prompts que produzcan trabajo realmente útil.
+
+---
+
+## 🎯 Proyectos destacados
+
+<div align="center">
+
+[![Anime Tracker](https://github-readme-stats.vercel.app/api/pin/?username=lucasusamentiaga&repo=anime-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/lucasusamentiaga/anime-tracker)
+
+</div>
+
+**🎌 Anime Tracker** — App de escritorio en Python + FastAPI para gestionar tu lista de anime. 8 fuentes de búsqueda, estadísticas, calendario semanal, notificaciones, acceso móvil PWA y 4 idiomas. MIT licensed.
 
 ---
 
@@ -86,12 +99,20 @@ Lo que más me motiva es la **intersección entre ingeniería clásica y las her
 
 <div align="center">
 
-<a href="https://github.com/lucasusamentiaga-del">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasusamentiaga-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="GitHub Stats"/>
+<a href="https://github.com/lucasusamentiaga">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasusamentiaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=480" alt="GitHub Stats"/>
 </a>
 
-<a href="https://github.com/lucasusamentiaga-del">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasusamentiaga-del&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=480" alt="Lenguajes más usados"/>
+<a href="https://github.com/lucasusamentiaga">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasusamentiaga&theme=tokyonight&hide_border=true&card_width=480" alt="Racha de commits"/>
+</a>
+
+<a href="https://github.com/lucasusamentiaga">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasusamentiaga&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=480" alt="Lenguajes más usados"/>
+</a>
+
+<a href="https://github.com/lucasusamentiaga">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucasusamentiaga&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage" alt="Trofeos"/>
 </a>
 
 </div>
@@ -109,18 +130,12 @@ Lo que más me motiva es la **intersección entre ingeniería clásica y las her
 
 ¿Te interesa colaborar, tienes una idea para discutir o simplemente quieres saludar?
 
-<p>
+<p align="center">
   <a href="mailto:lucasusamentiaga@gmail.com">
     <img src="https://img.shields.io/badge/Escr%C3%ADbeme-lucasusamentiaga@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <div align="center">
-
-<br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lucasusamentiaga-del.lucasusamentiaga-del&left_color=2e3440&right_color=6366F1&left_text=Visitas%20%C3%BAnicas" alt="Visitas únicas"/>
-
-<sub><i>El contador deduplica por IP — tus propias visitas no lo inflan.</i></sub>
-
+<sub><i>Hecho con criterio humano · powered by vibecoding ⚡</i></sub>
 </div>
